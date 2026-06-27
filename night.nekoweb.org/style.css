@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Ilisarniq';
+    src: url('../assets/Ilisarniq-Regular.woff2') format('woff2'),
+       url('../assets/Ilisarniq-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
