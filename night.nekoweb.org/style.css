@@ -1,8 +1,24 @@
 @font-face {
-    font-family: 'Ilisarniq';
-    src: url('../assets/Ilisarniq-Regular.woff2') format('woff2'),
-       url('../assets/Ilisarniq-Regular.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-  }
-  
+        font-family: 'Ilisarniq';
+        src: url('https://night.nekoweb.org/assets/Ilisarniq-Regular.woff2') format('woff2'),
+             url('http://night.nekoweb.org/assets/Ilisarniq-Regular.woff') format('woff');
+        font-weight: normal;
+        font-style: normal;
+      }
+
+      @font-face {
+          font-family: 'Ilisarniq';
+          src: url('https://night.nekoweb.org/assets/Ilisarniq-Bold.woff2') format('woff2'),
+               url('https://night.nekoweb.org/assets/Ilisarniq-Bold.woff') format('woff');
+          font-weight: bold;
+          font-style: normal;
+        }
+
+        @font-face {
+          font-family: 'Ilisarniq';
+          src: url('https://night.nekoweb.org/assets/Ilisarniq-Italic.woff2') format('woff2'),
+               url('https://night.nekoweb.org/assets/Ilisarniq-Italic.woff') format('woff');
+          font-weight: normal;
+          font-style: italic;
+        }
+        
